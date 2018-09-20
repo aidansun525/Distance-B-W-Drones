@@ -1,0 +1,5 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=1858:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CS20180920\out\production\CS20180920 Main
+Shortest distance is:9.9498743710662
+Longest distance is:13.601470508735444
+
+Process finished with exit code 0
